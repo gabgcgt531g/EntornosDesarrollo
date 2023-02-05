@@ -5,7 +5,7 @@ public class HolaMundo {
 		// TODO Esbozo de método generado automáticamente
 		System.out.println("Modificación desde nano");
 
-		System.out.println("l cambio - Eclipse");
+		System.out.println("2 cambio - Eclipse");
 	}
 
 }
