@@ -10,8 +10,6 @@ public class HolaMundo {
 
 		System.out.println("3 cambio - Consola");
 		System.out.println("3 cambio - Eclipse");
-		
-		System.out.println("prueba de rama master en GitRepo");
 	}
 
 }
